@@ -2,3 +2,5 @@ Git is a version contol system
 Git is a free software
 xiugaiwenjian
 again change
+again once change
+Git tracks changes
